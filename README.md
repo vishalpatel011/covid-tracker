@@ -29,14 +29,6 @@ A Flutter application that provides real-time tracking of COVID-19 statistics wo
   - Myth Busters
   - Donation links
 
-## Screenshots
-
-[Add your screenshots here]
-
-## Demo Video
-
-[Add your demo video link here]
-
 ## Getting Started
 
 ### Prerequisites
