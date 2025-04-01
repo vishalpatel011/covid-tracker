@@ -1,5 +1,7 @@
 # COVID-19 Tracker App
 
+[![COVID-19 Tracker Demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9yZWNrc3VidWdzb2l6bG5pbm9sOGF1bDYxeGQ0YXFheW1vZzFzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BiWD5KeMLeeTQiUGRO/giphy.gif)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9yZWNrc3VidWdzb2l6bG5pbm9sOGF1bDYxeGQ0YXFheW1vZzFzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BiWD5KeMLeeTQiUGRO/giphy.gif)
+
 A Flutter application that provides real-time tracking of COVID-19 statistics worldwide. The app features a clean, modern UI with both light and dark themes, and provides comprehensive information about the pandemic.
 
 ## Features
